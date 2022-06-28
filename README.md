@@ -2,6 +2,9 @@
 
 TinDog is a website where dogs can find their perfect match. I have used HTML,CSS and Bootsrap to make this website. I have learnt some core concepts of CSS like Grid , Media Query Breakpoints, Selector's property while making this project. An Udemy course guided me while doing this project.
 
+Deployment link - 
+<a href="https://dibyendu02.github.io/TinDog/" target="_blank">TinDog</a>
+
 Some glimpse of my project
 
 ![Demo](images/tindog-1.png)
