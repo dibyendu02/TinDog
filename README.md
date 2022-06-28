@@ -4,6 +4,6 @@ TinDog is a website where dogs can find their perfect match. I have used HTML,CS
 
 Some glimpse of my project
 
-![Demo](images/tindog1.png)
-![Demo](images/tindog2.png)
-![Demo](images/tindog3.png)
+![Demo](images/tindog 1.png)
+![Demo](images/tindog 2.png)
+![Demo](images/tindog 3.png)
